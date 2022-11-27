@@ -2,6 +2,8 @@
  Criar seu primeiro programa em c++ é bem símples, e pode ser feito em poucos passos:
 
 * Crie um novo arquivo com o nome "hello.cpp"
+  * Caso esteja usando windows, pode ser necessário ativar a seguinte opção no Windows Explorer:
+  ![](./readme-images/windows_file_extension.png)
 * Abra o arquivo com o editor de texto de sua preferência, e insira o seguinte código:
   ```
   #include <iostream>
